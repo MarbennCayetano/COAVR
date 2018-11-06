@@ -1,0 +1,29 @@
+body {
+   background-image: url("img/cave-festival-00.jpg");
+}
+.bg-black {
+    background-color: rgb(95, 95, 95)!important;
+}
+.btn-primary {
+    background-color: #212529;
+    border-color: #26a9df;
+}
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #ffd700 !important;
+  border-color: #ffd700 !important;
+}
+
+.btn-primary:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+}
+header.masthead {
+background: linear-gradient(0deg,#6c757d 0,#26a9df 100%);
+}
+.navbar-custom .navbar-brand {
+    font-size: larger;
+    font-weight: 900;
+}
+.navbar-dark .navbar-brand {
+    color: red;
+}
