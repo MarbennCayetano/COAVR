@@ -1,5 +1,6 @@
 body {
-   background-image: url("img/cave-festival-00.jpg");
+   background-image: url(../img/.jpg);
+   background-size: 100% 100%;
 }
 .bg-black {
     background-color: rgb(95, 95, 95)!important;
